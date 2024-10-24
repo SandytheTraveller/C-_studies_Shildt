@@ -1,0 +1,6 @@
+/Users/aleksandrak/Desktop/C-_studies_Shildt/Part_1_Scripts/bin/Debug/Part_1_Scripts.exe
+/Users/aleksandrak/Desktop/C-_studies_Shildt/Part_1_Scripts/bin/Debug/Part_1_Scripts.pdb
+/Users/aleksandrak/Desktop/C-_studies_Shildt/Part_1_Scripts/obj/Debug/Part_1_Scripts.csproj.AssemblyReference.cache
+/Users/aleksandrak/Desktop/C-_studies_Shildt/Part_1_Scripts/obj/Debug/Part_1_Scripts.csproj.CoreCompileInputs.cache
+/Users/aleksandrak/Desktop/C-_studies_Shildt/Part_1_Scripts/obj/Debug/Part_1_Scripts.exe
+/Users/aleksandrak/Desktop/C-_studies_Shildt/Part_1_Scripts/obj/Debug/Part_1_Scripts.pdb
